@@ -1,2 +1,2 @@
 # Open-Ground
-A Repo for testing connections and stuff
+A Repo for testing and stuff
